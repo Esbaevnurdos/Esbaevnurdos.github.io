@@ -1,0 +1,44 @@
+.table{
+    font-family: 'Segoe UI', Tahoma, Geneva,
+ }
+
+.Sun{
+    color:rgb(249, 249, 157);margin-left: 60px;font-size: 45px;
+}
+
+#textSun{
+    color: rgb(219, 241, 241)
+}
+
+.Etymology{
+    color: brown;
+}
+
+.textEtymology{
+    color: rgb(120, 51, 29);
+}
+
+.paragraphGeneral{
+    color: darkgreen;
+ }
+
+.textgeneral{
+    color: rgb(159, 248, 87 ) 
+}
+
+td{
+    background-color: rgb(159, 210, 19);color: rgb(3, 3, 37);opacity: 0.9
+}
+
+a:hover{
+    color: blue;
+}
+
+.Comparison{
+    text-align: center;
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
