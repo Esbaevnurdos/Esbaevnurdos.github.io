@@ -1,33 +1,60 @@
 
-  body{background-color: white;}
+  body{background-color: lightblue;}
 
-  .container{
-    position: 'relative';
+  .container
+  {
+    position: absolute;
     max-width: 800px;
     width: 80%;
     min-height: 100px;
-    background-color: black;
+    background-color: rgb(41, 17, 2);
     margin-left: 350px;
     height: 1000px;display: grid;
     grid-template-columns: 1fr 1fr;
-    }
-
-  .leftcontainer{ 
-    width: 0;
-    height: 0;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-bottom: 100px solid rgb(205, 136, 17);
-  }    
-
-  .rightcontainer{
-    width: 0;
-    height: 0;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    border-top: 100px solid rgb(205, 136, 17);
-    
   }
+
+.topcontainer{background:white ;
+position: relative;
+padding: 40px;
+height: 70px;
+bottom: -0px;
+width: 720px;
+left: 350px;
+
+
+
+
+
+}
+.hexagon-container {
+  width: 150px;
+  height: 500px;
+  background-color: #3498db00;
+  position: relative;
+  font-size: 600px;
+  left: 380px;
+  bottom: -200px;
+
+}
+.hexagon {
+  width: 160%;
+  padding-bottom: 125%;
+  /* Это значение зависит от размеров шестиугольника */
+  position: absolute;
+  clip-path: polygon(50% 18%, 100% 25%, 100% 75%, 50% 83%, 0% 75%, 0% 25%);
+  background-color: #f9a81c;
+  height: 850px;
+  bottom: -42px;
+}  
+p{
+  margin-left: 300px;
+  font-size: 45px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #f9a81c;
+margin-bottom: 200px;
+
+}
+
 
 
 
