@@ -26,33 +26,74 @@ left: 350px;
 
 
 }
-.hexagon-container {
-  width: 150px;
-  height: 500px;
-  background-color: #3498db00;
+
+
+#andrew{
+  margin-left: 200px;
+  font-size: 60px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #f9a81c;
+  bottom: 150px;
+  margin-top: -20px;
+}
+
+.Designer{
+  color: #f9a81c ;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  margin-left: 370px;
+  margin-top: -80px;
+}
+
+.profilecontainer{
+  border-radius: 180px;
+  background-color: #f9a81c;
   position: relative;
-  font-size: 600px;
-  left: 380px;
-  bottom: -200px;
+  padding: 40px;
+  height: 600px;
+  width: 150px;
+  margin-left: 380px;
+  bottom: 90px;
 
 }
-.hexagon {
-  width: 160%;
-  padding-bottom: 125%;
-  /* Это значение зависит от размеров шестиугольника */
-  position: absolute;
-  clip-path: polygon(50% 18%, 100% 25%, 100% 75%, 50% 83%, 0% 75%, 0% 25%);
-  background-color: #f9a81c;
-  height: 850px;
-  bottom: -42px;
-}  
-p{
-  margin-left: 300px;
-  font-size: 45px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: #f9a81c;
-margin-bottom: 200px;
+.profile{
+margin-top: 200px;
+font-size: 30px;
+margin-left: 10px;
+}
 
+img{
+  height: 200px;
+  width: 200px;
+  margin-top: -600px;
+  margin-bottom: 100px;
+  margin-left: -25px;
+  border-radius: 180px;
+}
+.text{
+  width: 195px;
+  margin-left: -23px;
+  margin-top: -40px;
+  color: white;
+  text-align: center;
+}
+.imgphone{
+  height: 20px;
+  width: 20px;
+  margin-bottom: -15px;
+  
+
+}
+
+.number{
+  color: white;
+  margin-top: -5px;
+  margin-left: 10px;
+ font-size: 17px
+}
+.imgmobile{
+  width: ;
+  height: ;
 }
 
 
