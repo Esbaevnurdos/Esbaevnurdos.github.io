@@ -1,0 +1,39 @@
+
+.container
+   
+
+.color-container{padding: 300px 150px; width: 500px; margin-left: 360px; margin-top: 80px; height: 1000px;
+background-color: aliceblue;
+}
+.profileText{position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+  border-bottom: 1px;
+
+}
+body{
+    background-color: rgb(161, 222, 247);
+}
+
+.pic{
+  width: 100mm; /* A4 paper width */
+  height: 297mm; /* A4 paper height */
+  background-color: rgb(16, 91, 129); /* White paper background */
+  border: 1px solid #000; /* Black border */
+  margin-left: 382px; margin-top: 500px; /* Add some margin for spacing */
+  padding: 20px; /* Add padding for content */
+  position: absolute;}
+
+  .img-me{width: 240px; height: 240px; margin-left: 55px; border-radius: 180px;}
+.text1{margin-left: 25px;}
+
+
+.text-me{font-size: 30px;color: white;}
+.skill{color: white;margin-left: 90px;font-size: 25px;}
+.contact{color: white;font-size: 20px;}
+.Mobile{color:black;margin-left: 20px;}
+p{color: white;margin-left: 20px;}
+.E-mail{color: #000;margin-left: 20px;}
+.Website{color: #000;margin-left: 20px;}
