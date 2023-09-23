@@ -1,12 +1,12 @@
 body {
     margin: 0px;
-    background-color: whitesmoke;
+    background-color: rgb(131, 210, 180);
     font-family: 'Rock Salt', cursive;
     text-align: center;
   }
   
   .secondary-background {
-    background-color: snow;
+    background-color: rgb(203, 167, 203);
   }
   
   .tagline {
@@ -17,10 +17,9 @@ body {
   
   /* Header */
   h1 {
-    margin: 0;
-    background-color: steelblue;
+    margin:0;
     line-height: 100px;
-    color: khaki;
+    color: rgb(232, 106, 92);
   }
   
   h2 {
@@ -29,7 +28,7 @@ body {
   
   /* App Container */
   .container {
-    border: 2px solid snow;
+    border: 2px solid rgb(231, 158, 63);
     display: flex;
   }
   
@@ -59,12 +58,12 @@ body {
   }
   
   .day.square {
-    background-color: steelblue;
-    border: 1px solid white;
+    background-color: rgb(234, 242, 165);
+    border: 1px solid rgb(184, 36, 36);
   }
   
   .task.square {
-    background-color: khaki;
+    background-color: rgb(124, 214, 239);
     border: 1px solid white;
   }
   
@@ -76,14 +75,14 @@ body {
   
   /* Reminders */
   .reminders {
-    background-color: khaki;
+    background-color:rgb(115, 236, 214);
     display: inline-flex;
   }
   
   .reminders h3 {
     width: 100%;
     margin: 10px;
-    color: black;
+    color: rgb(45, 7, 128);
     line-height: 90px;
     font-size: 24px;
   }
