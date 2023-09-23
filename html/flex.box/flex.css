@@ -35,7 +35,7 @@ body {
   /* To Do Section */
   .week {
     display: inline-flex;
-    flex-grow: 3;
+    flex-grow: 2;
     flex-direction: column;
   }
   
@@ -77,6 +77,7 @@ body {
   .reminders {
     background-color:rgb(115, 236, 214);
     display: inline-flex;
+    width: 600px;
   }
   
   .reminders h3 {
