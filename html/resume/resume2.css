@@ -1,0 +1,544 @@
+body{
+    background-image: url(https://wallpapers.com/images/featured/office-desk-a1yivbaxal92jim2.jpg);
+    background-color: lightblue;
+}
+
+
+.bigcontainer{
+    box-shadow: 30px;
+}
+
+
+
+.container1{
+    width: 250px;
+    height: 1200px;
+    background-color:rgba(13, 30, 68, 0.999);
+
+}
+
+.container2{
+    width: 500px;
+    height: 1200px;
+    background-color: white;
+    
+}
+.bigcontainer{
+    justify-content: center;
+    display: flex;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 180px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+    color: white;
+    margin-top: -10px;
+}
+
+.line{
+    color: rgb(10, 83, 107);
+    
+
+}
+
+.p1{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.phone{
+    list-style:  url(img/phone.svg);
+    color: white;
+}
+
+.mail{
+    list-style: url(img/mail.svg);
+    color: white;
+}
+
+.web{
+    list-style: url(img/globe.svg);
+    color: white;
+}
+
+.place{
+    list-style: url(img/map-pin.svg);
+    color: white;
+}
+
+.p2{
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.number{
+    color: rgb(12, 165, 216);
+    font-size: 13px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.mas{
+    width: 200px;
+    margin-left: 20px;
+}
+
+.lang{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.language{
+    display: flex;
+    justify-content: center;
+   
+}
+.language1{
+    width: 165px;
+    background-color: rgb(12, 165, 216) ;
+    height: 5px;
+    margin-top: -10px;
+}
+
+.language2{
+    width: 50px;
+    background-color:black ;
+    height: 5px;
+    margin-top: -10px;
+}
+.kazak{
+    margin-top: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.languag{
+    display: flex;
+    justify-content: center;
+}
+ .languag1{
+    width: 140px;
+    background-color: rgb(12, 165, 216) ;
+    height: 5px;
+    margin-top: 35px;
+ }
+
+ .languag2{
+    width: 75px;
+    background-color:black ;
+    height: 5px;
+    margin-top: 35px;
+}
+
+.englis{
+    
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.langua{
+    display: flex;
+    justify-content: center;
+}
+
+.langua1{
+    width: 100px;
+    background-color: rgb(12, 165, 216) ;
+    height: 5px;
+    margin-top: -50px;
+}
+ 
+.langua2{
+    width: 115px;
+    background-color:black ;
+    height: 5px;
+    margin-top: -50px;  
+
+}
+
+.russia{
+    color: white ;
+    text-align: left;
+    margin-top: -30px;
+    margin-left: 20px;
+    
+}
+
+
+.langu{
+    display: flex;
+    justify-content: center;
+
+}
+
+.langu1{
+    width: 90px;
+    background-color: rgb(12, 165, 216) ;
+    height: 5px;
+    margin-top: 40px;
+ }
+
+ .langu2{
+    width: 125px;
+    background-color:black ;
+    height: 5px;
+    margin-top: 40px;
+}
+
+.turkish{
+    
+    text-align: left;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+.profile{
+    margin-top: 20px;
+    text-align: left;
+    margin-left: 20px;
+    color:rgb(13, 13, 106) ;
+    font-size: 20px;
+}
+
+.firsttext{
+    color: black;
+    width: 450px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.secondhtml{
+    color: black;
+    width: 450px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+
+.education{
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 20px;
+    color:rgb(13, 13, 106) ;
+    font-size: 20px;
+}
+
+.year1{
+    color: black;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.year2{
+    color: black;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 3px
+}
+.yaer3{
+    color: black;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 3px;
+    
+}
+
+.firstrow{
+margin-top: -17px;
+width: 110px;
+margin-left: -5px;
+}
+
+.word1{
+    color:  rgb(12, 165, 216) ;
+    text-align: left;
+    font-size: 15px;
+}
+
+.word2{
+    color: black;
+    text-align: left;
+    font-size: 15px;
+}
+.word3{
+    color:  rgb(12, 165, 216);
+    text-align: left;
+    font-size: 15px;
+}
+.word4{
+    color: black;
+    text-align: left;
+    font-size: 15px;
+}
+.word5{
+    color:  rgb(12, 165, 216);
+    text-align: left;
+    font-size: 15px;
+}
+.word6{
+    color: black;
+    text-align: left;
+    font-size: 15px;
+}
+
+.condtob{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.secondrow{
+    margin-top: 65px;
+    margin-right: 30px;
+    width:350px 
+}
+
+.skill{
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 20px;
+    color:rgb(13, 13, 106) ;
+    font-size: 20px;   
+}
+
+
+.html{
+    display: flex;
+    justify-content: center;
+margin-left: 30px;
+}
+
+.htlm1{
+    width: 20px;
+    background-color: rgb(12, 165, 216) ;
+    height: 8px;
+    margin-top: 40px;
+ }
+
+ .html2{
+    width: 320px;
+    background-color:gray ;
+    height: 8px;
+    margin-top: 40px;
+    
+}
+
+.hmtlphoto{
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+
+
+.table{
+    margin-top: -40px;
+    margin-left: -15px;
+}
+
+
+
+
+.hmtlphotoo{
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+
+
+.ht{
+    display: flex;
+    justify-content: center;
+margin-left: 30px;
+}
+
+.ht1{
+    width: 150px;
+    background-color:  rgb(12, 165, 216) ;
+    height: 8px;
+    margin-top: 40px;
+ }
+
+ .ht2{
+    width: 190px;
+    background-color:gray ;
+    height: 8px;
+    margin-top: 40px;
+    
+}
+
+.hmphoto{
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+
+
+.htm{
+    display: flex;
+    justify-content: center;
+margin-left: 30px;
+}
+
+.htm1{
+    width: 100px;
+    background-color: rgb(12, 165, 216) ;
+    height: 7.6px;
+    margin-top: 40px;
+ }
+
+ .htm2{
+    width: 240px;
+    background-color:gray;
+    height: 7.6px;
+    margin-top: 40px;
+    
+}
+
+.hmtlphot{
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+
+.piramid{
+    margin-left: 175px;
+    margin-top: 50px;
+   margin-top: -5px;
+}
+
+
+
+.grid{
+    background-color: rgb(12, 165, 216)  ;
+   height: 25px;
+
+    }
+
+.my{
+   margin-top: 20px;
+    text-align: left;
+    margin-left: 20px;
+    color:rgb(13, 13, 106) ;
+    font-size: 20px;
+
+}
+.piramid2{
+    margin-left: 100px;
+    background-color:rgba(13, 30, 68, 0.999) ;
+ height: 35px;
+ 
+}
+
+.nurdos{
+    font-size: 15px;
+    color: white;
+   margin-right: 20px;
+}
+
+.nurdos1{
+    font-size: 15px;
+    color: white;
+    margin-left: 20px;
+    
+}
+
+.b1{
+    font-size: 13px;
+    margin-left: 0px;
+    color: white;
+}
+
+.b2{
+    font-size: 13px;
+    margin-left: 80px;
+    color: white;
+}
+
+.b3{
+    font-size: 13px;
+    margin-left: 90px;
+    color: white;
+}
+
+
+
+.l1{
+    font-size: 13px;
+    margin-left: 5px;
+    color: white;
+}
+
+.l2{
+    font-size: 13px;
+    margin-left: 60px;
+    color: white;
+}
+
+.l3{
+    font-size: 13px;
+    margin-left: 60px;
+    color: white;
+}
+
+
+.l4{
+    font-size: 13px;
+    margin-left: 60px;
+    color: white;
+}
+
+.piramid3{
+background-color: rgb(12, 165, 216) ;
+margin-left: 65px;
+height: 40px;
+
+
+}
+
+.piramid4{
+     
+    margin-left: 30px;
+    height: 45px;
+    background-color:rgba(13, 30, 68, 0.999) ;
+    
+}
+
+.gridd{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+}
+
+
+.html{
+    color: black;
+}
+
+.pirami{
+    margin-left: 190px;
+    
+    margin-top: ;
+}
