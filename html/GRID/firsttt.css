@@ -1,0 +1,110 @@
+body{
+    background-color: black; 
+  }
+  
+  img{
+      width: 100%;
+     
+  }
+  
+  .h1{
+      color: white;
+      position: absolute;
+      margin-left: 100px;
+      margin-top: 30px;
+  }
+  
+  .pic2{
+      height: 100px;
+      width: 100px;
+      margin-left: 0px;
+      margin-bottom: -100px;
+      }
+  
+      .pp{
+          margin-bottom: -10px;
+          position: absolute;
+          height: 90px;
+          width: 100px;
+      }
+  
+      .blue{
+          color: rgb(85, 85, 237);
+          margin-top: -855px;
+          font-size: 10px;
+          margin-left: 110px;
+          width: 200px;
+          text-align: center;
+      }
+      
+      p{
+          text-align: right;
+          color: white;
+          display: flex;
+          justify-content: space-around;
+         
+      }
+  
+      nav{
+          margin-left: 800px;
+          display: flex;
+          justify-content: space-between;
+          
+      }
+  
+      .c{
+          margin-right: 40px;
+          
+  
+      }
+  
+      .cent{
+          margin-top: 150px;
+          font-size: 20px;
+          justify-content: space-between;
+          display: flex;
+          margin-left: 420px;
+          margin-right: 420px;
+      }
+  
+      nav p:hover{
+      color: blue;
+      }
+       
+      p{
+          font-family: Arial, Helvetica, sans-serif;
+      }
+  
+      .hhh{
+          font-size: 90px;
+          margin-top: -3px;
+          filter: drop-shadow(0px 0px 30px white);
+      }
+  
+   
+      .mmm{
+          grid: column 1px;
+      }
+  
+      .but{
+          justify-content: space-between;
+          display: flex;
+      }
+  
+      .fir{
+          margin-left: 500px;
+          width: 200px;
+          background-color: white;
+          
+      }
+  
+      .sec{
+          margin-right: 500px;
+          width: 200px;
+          background-color: rgb(7, 7, 78);
+      
+      }
+  
+      .fir p{
+          color:rgb(7, 7, 78) ;
+      }
